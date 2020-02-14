@@ -1826,7 +1826,7 @@
 		}
 
 		.box header h2 {
-			margin: 0 0 .5em 0;
+			margin: 0 0 1.0em 0;
 			color: #FFF;
 		}
 
@@ -3338,7 +3338,7 @@
 
 		#header.alt {
 			top: 0;
-			background: #F64747;
+			background: rgb(243, 87, 87);
 		}
 
 		#header .logo {
@@ -3625,7 +3625,7 @@
 		}
 
 		#banner h1 {
-			font-size: 7em;
+			font-size: 5em;
 			line-height: 1.1;
 			font-family: "Lobster", cursive;
 			margin-bottom: .25em;
@@ -4179,10 +4179,10 @@
 /* Footer */
 
 	#footer {
-		background-color: #F64747;
+		background-color: rgb(243, 87, 87);
 		color: #fdd1d1;
 		padding: 6em 0 4em 0;
-		background: #F64747;
+		background: rgb(243, 87, 87);
 	}
 
 		#footer input, #footer select, #footer textarea {
@@ -4399,7 +4399,7 @@
 		}
 
 		#footer .copyright {
-			/*color: rgba(255, 255, 255, 0.5);*/
+			color: rgba(255, 255, 255, 0.5);
 			font-size: 1em;
 			margin: 0 0 2em 0;
 			padding: 0;
